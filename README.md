@@ -39,13 +39,6 @@ Hi! I’m LeZ, a passionate developer who loves building useful projects and lea
 * [Project 2](link) – short description
 * [Project 3](link) – short description
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeZ-fr\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeZ-fr\&layout=compact\&theme=tokyonight)
 
 ---
 
