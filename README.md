@@ -21,7 +21,7 @@ Hi! I’m LeZ, a passionate developer who loves building useful projects and lea
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)  
 
 ### 🔹 Programming Languages  
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)]([https://devdocs.io/c])  
 [![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)](https://www.java.com/)  
 [![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)  
 [![Assembly](https://img.shields.io/badge/Assembly-525252?logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)  
