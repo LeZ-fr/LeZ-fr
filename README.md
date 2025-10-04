@@ -14,9 +14,7 @@ Hi! I’m LeZ, a passionate developer who loves building useful projects and lea
 
 ---
 
-## 🛠️ Skills & Tools  
-
-## 🛠️ Skills & Tools  
+## 🛠️ Skills & Tools 
 
 ### 🔹 Operating Systems  
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)  
@@ -32,12 +30,6 @@ Hi! I’m LeZ, a passionate developer who loves building useful projects and lea
 
 ### 🔹 Frameworks  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)](https://symfony.com/)  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeZ-fr&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
 
 ---
 
