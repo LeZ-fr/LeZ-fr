@@ -43,10 +43,8 @@ Here are some technologies and tools I often work with:
 
 ## 📫 Connect with Me
 
-* ✉️ Email: [[your.email@example.com](mailto:your.email@example.com)]
-* 💼 LinkedIn: [your LinkedIn profile]
-* 🐦 Twitter/X: [your handle]
+* ✉️ Email: [[zyslowww@gmail.com](mailto:zyslowww@gmail.com)]
 
 ---
 
-⭐️ Feel free to explore my projects and give a star if you find something useful!
+⭐️ Feel free to explore my projects and give a feedback !
