@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-Hi! I’m LeZ-fr, a passionate developer who loves building useful projects and learning new technologies. 🚀
+Hi! I’m LeZ, a passionate developer who loves building useful projects and learning new technologies. 🚀
 
 ---
 
