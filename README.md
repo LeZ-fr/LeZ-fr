@@ -14,6 +14,16 @@ Hi! I’m LeZ, a passionate developer who loves building useful projects and lea
 
 ---
 
+## 📂 GitHub Architecture
+
+This GitHub contains both **personal** and **educational** projects.  
+The organization is as follows:
+
+- **Group University** → Projects developed within a university context (teamwork & coursework)  
+- **Other** → Personal projects, experiments, and individual developments  
+
+
+---
 ## 🛠️ Skills & Tools 
 
 ### 🔹 Operating Systems  
@@ -30,15 +40,6 @@ Hi! I’m LeZ, a passionate developer who loves building useful projects and lea
 
 ### 🔹 Frameworks  
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)](https://symfony.com/)  
-
----
-
-## 📌 Featured Projects
-
-* [Project 1](link) – short description
-* [Project 2](link) – short description
-* [Project 3](link) – short description
-
 
 ---
 
