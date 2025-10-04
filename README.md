@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**LeZ-fr/LeZ-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m LeZ-fr, a passionate developer who loves building useful projects and learning new technologies. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+* 🔭 Currently working on: **[your current project]**
+* 🌱 Currently learning: **[technology / framework / language]**
+* 💡 Interested in: **[areas, e.g. AI, web dev, mobile dev, open-source...]**
+* 🎯 Goal: **[e.g. contribute to open-source, grow as a full-stack developer...]**
+* ⚡ Fun fact: **[something fun about you]**
+
+---
+
+## 🛠️ Skills & Tools
+
+Here are some technologies and tools I often work with:
+
+* **Languages**: JavaScript, Python, Java, C#
+* **Frameworks**: React, Node.js, Django
+* **Tools**: Git, Docker, VS Code, Linux
+* **Databases**: PostgreSQL, MongoDB
+
+---
+
+## 📌 Featured Projects
+
+* [Project 1](link) – short description
+* [Project 2](link) – short description
+* [Project 3](link) – short description
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeZ-fr\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeZ-fr\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* ✉️ Email: [[your.email@example.com](mailto:your.email@example.com)]
+* 💼 LinkedIn: [your LinkedIn profile]
+* 🐦 Twitter/X: [your handle]
+
+---
+
+⭐️ Feel free to explore my projects and give a star if you find something useful!
