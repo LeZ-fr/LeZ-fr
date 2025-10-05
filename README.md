@@ -1,27 +1,21 @@
 # 👋 Welcome to my GitHub!
 
-Hi! I’m LeZ, a passionate developer who loves building useful projects and learning new technologies. 🚀
+Hi! I’m LeZ, a passionate developer and student who loves building useful projects, exploring new technologies, and constantly learning new things. 🚀 
+Some of my projects may still be a work in progress, but they reflect my journey of growth and curiosity.  
 
 ---
 
 ## 🌱 About Me
 
-* 🔭 Currently working on: **[your current project]**
-* 🌱 Currently learning: **[technology / framework / language]**
-* 💡 Interested in: **[areas, e.g. AI, web dev, mobile dev, open-source...]**
-* 🎯 Goal: **[e.g. contribute to open-source, grow as a full-stack developer...]**
-* ⚡ Fun fact: **[something fun about you]**
+* 💡 Interested in: **[Mathematics, Aerospacetial , Science in general]**
+* 🎯 Goal: **[Embedded Software Developer specialized in the Aeronautics/Aerospace domain, Software Developer, or Full-Stack Developer]**
 
 ---
 
 ## 📂 GitHub Architecture
 
 This GitHub contains both **personal** and **educational** projects.  
-The organization is as follows:
-
-- **Group University** → Projects developed within a university context (teamwork & coursework)  
-- **Other** → Personal projects, experiments, and individual developments  
-
+I have put those that I find interesting here.
 
 ---
 ## 🛠️ Skills & Tools 
@@ -49,4 +43,4 @@ The organization is as follows:
 
 ---
 
-⭐️ Feel free to explore my projects and give a feedback !
+⭐️ Feel free to explore my projects and give me a feedback !
