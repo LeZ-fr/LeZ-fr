@@ -1,6 +1,6 @@
-# 👋 Welcome to my GitHub!
+# 👋 Hi ! I’m LeZ
 
-Hi! I’m LeZ, a passionate developer and student who loves building useful projects, exploring new technologies, and constantly learning new things. 🚀 
+This GitHub account belongs to a passionate developer and student who loves building useful projects, exploring new technologies, and constantly learning new things. 🚀 
 Some of my projects may still be a work in progress, but they reflect my journey of growth and curiosity.  
 
 ---
