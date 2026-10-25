@@ -9,7 +9,7 @@ Some of my projects may still be a work in progress, but they reflect my journey
 ## 🌱 About Me
 
 * 💡 Interested in: **[Mathematics, Aerospacetial , Science in general]**
-* 🎯 Goal: **[Embedded Software Developer specialized in the Aeronautics/Aerospace domain, Software Developer, or Full-Stack Developer]**
+* 🎯 Goal: **Embedded Software Developer specialized in the Aeronautics/Aerospace/Nuclear domain, Software Developer, or Full-Stack Developer**
 
 ---
 
